@@ -1,0 +1,171 @@
+[
+{
+    "PT BEI Consolidated Income Statement: Net Income, Total Expense, Trading Expense":
+    [
+       {
+          "Year": "2003",
+          "Net Income": "15.134",
+          "Total Expense": "102.990",
+          "Trading Developing Expense":"4.223"
+       },
+ 
+       {
+          "Year": "2004",
+          "Net Income": "37.809",
+          "Total Expense": "123.054",
+          "Trading Developing Expense":"10.269"
+       },
+       
+       {
+         "Year": "2005",
+         "Net Income": "57.449",
+         "Total Expense": "160.065",
+         "Trading Developing Expense":"27.864"
+       },
+
+       {
+         "Year": "2006",
+         "Net Income": "103.781",
+         "Total Expense": "201.680",
+         "Trading Developing Expense":"32.424"
+        },
+
+        {
+         "Year": "2007",
+         "Net Income": "307.702",
+         "Total Expense": "228.842",
+         "Trading Developing Expense":"35.348"
+        },
+
+        {
+         "Year": "2008",
+         "Net Income": "231.892",
+         "Total Expense": "268.660",
+         "Trading Developing Expense":"44.845"
+        },
+     
+        {
+         "Year": "2009",
+         "Net Income": "341.886",
+         "Total Expense": "289.741",
+         "Trading Developing Expense":"48.783"
+        },
+     
+        {
+         "Year": "2010",
+         "Net Income": "358.041",
+         "Total Expense": "371.312",
+         "Trading Developing Expense":"54.976"
+        },
+    
+        {
+         "Year": "2011",
+         "Net Income": "299.816",
+         "Total Expense": "447.213",
+         "Trading Developing Expense":"73.114"
+        },
+     
+        {
+         "Year": "2012",
+         "Net Income": "218.901",
+         "Total Expense": "547.797",
+         "Trading Developing Expense":"79.832"
+        }
+    ]
+ },
+
+ {
+    "PT BEI Composition and Participating Account for Operating ":
+    [
+       {
+         "Year": "2003", 
+         "Riset dan Pengembangan": "",
+         "Pengembangan Anggota Bursa": "",
+         "Promosi": "",
+         "Pemeliharaan Teknologi Informasi":"",
+         "Lain-Lain":""
+       },
+ 
+       { 
+         "Year": "2004",
+         "Riset dan Pengembangan": "",
+         "Pengembangan Anggota Bursa": "",
+         "Promosi": "",
+         "Pemeliharaan Teknologi Informasi":"",
+         "Lain-Lain":""
+       },
+       
+       {
+         "Year": "2005",
+         "Riset dan Pengembangan": "",
+         "Pengembangan Anggota Bursa": "",
+         "Promosi": "",
+         "Pemeliharaan Teknologi Informasi":"",
+         "Lain-Lain":""
+       },
+
+       {
+         "Year": "2006",
+         "Riset dan Pengembangan": "",
+         "Pengembangan Anggota Bursa": "",
+         "Promosi": "",
+         "Pemeliharaan Teknologi Informasi":"",
+         "Lain-Lain":""
+        },
+
+        {
+         "Year":"2007",
+         "Riset dan Pengembangan": "21.792",
+         "Pengembangan Anggota Bursa": "2.157",
+         "Promosi": "7.13",
+         "Pemeliharaan Teknologi Informasi":"632.314",
+         "Lain-Lain":"3.636"
+        },
+
+        {
+         "Year": "2008",
+         "Riset dan Pengembangan": "27.877",
+         "Pengembangan Anggota Bursa": "10.043",
+         "Promosi": "4.696",
+         "Pemeliharaan Teknologi Informasi":"763.088",
+         "Lain-Lain":""
+        },
+     
+        {
+         "Year": "2009",
+         "Riset dan Pengembangan": "29.299",
+         "Pengembangan Anggota Bursa": "13.123",
+         "Promosi": "4.403",
+         "Pemeliharaan Teknologi Informasi":"654.860",
+         "Lain-Lain":"1.258"
+        },
+     
+        {
+         "Year": "2010",
+         "Riset dan Pengembangan": "36.182",
+         "Pengembangan Anggota Bursa": "13.123",
+         "Promosi": "4.323",
+         "Pemeliharaan Teknologi Informasi":"1.308",
+         "Lain-Lain":"4.064"
+        },
+    
+        {
+         "Year":"2011",
+         "Riset dan Pengembangan": "31.791",
+         "Pengembangan Anggota Bursa": "9.099",
+         "Promosi": "3.371",
+         "Pemeliharaan Teknologi Informasi":"866.264",
+         "Lain-Lain":"19.261"
+        },
+     
+        {
+         "Year":"2012",
+         "Riset dan Pengembangan": "43.996",
+         "Pengembangan Anggota Bursa": "27.20",
+         "Promosi": "6.505",
+         "Pemeliharaan Teknologi Informasi":"1.120",
+         "Lain-Lain":"931.123"
+        }
+    ]
+ }
+]
